@@ -53938,7 +53938,7 @@ Source: https://upstash.com/docs/workflow/llms-txt
 # Pricing
 Source: https://upstash.com/docs/workflow/pricing
 
-Upstash Workflow is based on QStash and uses a "pay-as-you-go" pricing model. You only incur costs when your app receives traffic, meaning there's no charge when it's not in use. Click [here](https://upstash.com/pricing/workflow) to view the pricing.
+Upstash Workflow uses a "pay-as-you-go" pricing model. You only incur costs when your app receives traffic, meaning there's no charge when it's not in use. Click [here](https://upstash.com/pricing/workflow) to view the pricing.
 
 A workflow run consists of several QStash messages, with the total cost determined by the number of messages used.
 
